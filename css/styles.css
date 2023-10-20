@@ -2,7 +2,6 @@
     box-sizing: border-box;
     width: 330px;
     height: 220px;
-    box-sizing: content-box;
     padding: 15px 10px 20px;
     margin-bottom: 30px;
     border-style: dotted;
